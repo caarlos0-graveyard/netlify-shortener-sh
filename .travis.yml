@@ -1,0 +1,2 @@
+script:
+  - curl -sL https://git.io/shcheck | bash -s
