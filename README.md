@@ -4,7 +4,7 @@ netlify-shortener in plain shell
 
 ## Usage
 
-Source the file and then just use it in your site page!
+Source the file and then just use it in your site source folder!
 
 ```sh
 $ short https://google.com
